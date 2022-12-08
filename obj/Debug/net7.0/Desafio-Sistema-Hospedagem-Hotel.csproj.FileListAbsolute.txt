@@ -1,0 +1,15 @@
+C:\Workspace\DIO\Desafio-Sistema-Hospedagem-Hotel\bin\Debug\net7.0\Desafio-Sistema-Hospedagem-Hotel.exe
+C:\Workspace\DIO\Desafio-Sistema-Hospedagem-Hotel\bin\Debug\net7.0\Desafio-Sistema-Hospedagem-Hotel.deps.json
+C:\Workspace\DIO\Desafio-Sistema-Hospedagem-Hotel\bin\Debug\net7.0\Desafio-Sistema-Hospedagem-Hotel.runtimeconfig.json
+C:\Workspace\DIO\Desafio-Sistema-Hospedagem-Hotel\bin\Debug\net7.0\Desafio-Sistema-Hospedagem-Hotel.dll
+C:\Workspace\DIO\Desafio-Sistema-Hospedagem-Hotel\bin\Debug\net7.0\Desafio-Sistema-Hospedagem-Hotel.pdb
+C:\Workspace\DIO\Desafio-Sistema-Hospedagem-Hotel\obj\Debug\net7.0\Desafio-Sistema-Hospedagem-Hotel.csproj.AssemblyReference.cache
+C:\Workspace\DIO\Desafio-Sistema-Hospedagem-Hotel\obj\Debug\net7.0\Desafio-Sistema-Hospedagem-Hotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\DIO\Desafio-Sistema-Hospedagem-Hotel\obj\Debug\net7.0\Desafio-Sistema-Hospedagem-Hotel.AssemblyInfoInputs.cache
+C:\Workspace\DIO\Desafio-Sistema-Hospedagem-Hotel\obj\Debug\net7.0\Desafio-Sistema-Hospedagem-Hotel.AssemblyInfo.cs
+C:\Workspace\DIO\Desafio-Sistema-Hospedagem-Hotel\obj\Debug\net7.0\Desafio-Sistema-Hospedagem-Hotel.csproj.CoreCompileInputs.cache
+C:\Workspace\DIO\Desafio-Sistema-Hospedagem-Hotel\obj\Debug\net7.0\Desafio-Sistema-Hospedagem-Hotel.dll
+C:\Workspace\DIO\Desafio-Sistema-Hospedagem-Hotel\obj\Debug\net7.0\refint\Desafio-Sistema-Hospedagem-Hotel.dll
+C:\Workspace\DIO\Desafio-Sistema-Hospedagem-Hotel\obj\Debug\net7.0\Desafio-Sistema-Hospedagem-Hotel.pdb
+C:\Workspace\DIO\Desafio-Sistema-Hospedagem-Hotel\obj\Debug\net7.0\Desafio-Sistema-Hospedagem-Hotel.genruntimeconfig.cache
+C:\Workspace\DIO\Desafio-Sistema-Hospedagem-Hotel\obj\Debug\net7.0\ref\Desafio-Sistema-Hospedagem-Hotel.dll
